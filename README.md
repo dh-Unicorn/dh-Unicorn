@@ -18,4 +18,4 @@ I’m a graduate researcher at **UCAS (University of Chinese Academy of Sciences
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dh-Unicorn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh-Unicorn)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
