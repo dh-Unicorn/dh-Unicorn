@@ -18,6 +18,7 @@ I’m a graduate researcher at **UCAS (University of Chinese Academy of Sciences
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dh-Unicorn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh-Unicorn)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dh-Unicorn)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dh-Unicorn/dh-Unicorn/output/github-contribution-grid-snake-dark.svg">
