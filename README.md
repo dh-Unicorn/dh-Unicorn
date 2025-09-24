@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I’m a graduate researcher at **UCAS (University of Chinese Academy of Sciences)**, with a core focus on **Networking and Artificial Intelligence**. My work primarily explores how AI can optimize network performanc.I’m here to share my research code, experiment notes, and collaborate on open-source projects related to my field. You can connect me hangdunicorn@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dh-Unicorn)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh-Unicorn)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dh-Unicorn/dh-Unicorn/output/github-contribution-grid-snake-dark.svg">
